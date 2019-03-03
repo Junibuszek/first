@@ -22,3 +22,5 @@ while True:
     if z == "/":
         w = (x/y)
     print(x, z, y, "=", w)
+
+# sprawdzam jak to działa
