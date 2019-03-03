@@ -1,6 +1,8 @@
 print("Mój pierwsyz kalkulator :P")
 while True:
     # Robie u juniora
+    # stworzyć nową gałąź
+    # stworzenie kolejnej gałęzi
     print("pierwsza liczba")
     x = input()
     print('działanie które chcesz wykonać (x , / , - , + )')
